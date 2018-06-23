@@ -1,0 +1,17 @@
+{
+    "name": "toxageek/laravel-front-end-package",
+    "description": "Laravel front-end package.json for Lumen",
+    "authors": [
+        {
+            "name": "ToxaGeek",
+            "email": "toxageek@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "ToxaGeek\\LaravelFrontEndPackage\\": "src/"
+        }
+    },
+    "license": "MIT"
+}
