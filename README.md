@@ -1,1 +1,1 @@
-"# Laravel front-end package.json for Lumen" 
+# Laravel front-end package.json for Lumen
